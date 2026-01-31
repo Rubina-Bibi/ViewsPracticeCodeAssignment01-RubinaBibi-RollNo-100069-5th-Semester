@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Views Practice Code</string>
+    <string name="app_logo">App Logo</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="agree_terms">I agree with terms</string>
+    <string name="submit">Submit</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="wifi_label">Enable WiFi</string>
+    <string name="skills_hint">Type Skills (e.g. Java, Kotlin)</string>
+
+    <string name="msg_enter_name">Please enter your name</string>
+    <string name="msg_select_gender">Please select gender</string>
+    <string name="msg_agree_terms">Please agree to terms</string>
+</resources>
